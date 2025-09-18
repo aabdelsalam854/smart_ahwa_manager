@@ -27,7 +27,7 @@ The app allows you to manage customer orders, track pending/completed orders, an
 
 ### 🏠 Home Views
 
-<img src="screen_shots/1.png" width="200" />
+<img src="screen_shots/1.png" width="600" />
 
 
 ---
@@ -94,4 +94,5 @@ flutter run
 ## 📌 Summary
 
 By applying **OOP** and **SOLID (SRP, OCP, LSP)** principles, the project remains flexible, scalable, and easy to maintain. New drinks or order states can be added without modifying existing classes, ensuring a robust and professional café management system.
+
 
